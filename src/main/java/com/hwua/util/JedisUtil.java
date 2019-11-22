@@ -43,6 +43,10 @@ public class JedisUtil {
 
     }
 
+    public void aa(){
+
+    }
+
 //
 // 客户端发送一次ajax请求,查询所有的新闻,在页面上显示所有新闻内容
 // 从数据库查询所有的新闻,要求把集合转换成json格式的字符串 放到redis中, news:json格式字符串
